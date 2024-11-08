@@ -1,0 +1,3 @@
+D:/lipec/Desktop/tutorial/build/CMakeFiles/HelloWorld.dir
+D:/lipec/Desktop/tutorial/build/CMakeFiles/edit_cache.dir
+D:/lipec/Desktop/tutorial/build/CMakeFiles/rebuild_cache.dir
